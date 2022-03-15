@@ -8,8 +8,7 @@ public class Practice3 {
  // I have to eat ice-cream!
      String str= "Zukhra";
 
-    String str = "I don't like ice-cream!";
+   // String str = "I don't like ice-cream! (kidding)";
 
-    //another comment
-
+        String str = "Zukhra";
 }}
