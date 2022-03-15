@@ -10,4 +10,6 @@ public class Practice3 {
 
     String str = "I don't like ice-cream!";
 
+    //another comment
+
 }}
