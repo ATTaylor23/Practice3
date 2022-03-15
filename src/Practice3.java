@@ -10,6 +10,5 @@ public class Practice3 {
 
    // String str = "I don't like ice-cream! (kidding)";
 
-        String str = "Zukhra11";
-        //puch trr
+        String str= "Zukhra";
 }}
