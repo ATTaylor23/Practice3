@@ -5,4 +5,6 @@ public class Practice3 {
     //hello from me 2
  // I have to eat ice-cream!
 
+    String str = "I don't like ice-cream!";
+
 }
